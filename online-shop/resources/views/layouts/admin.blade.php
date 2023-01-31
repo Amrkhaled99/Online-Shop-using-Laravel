@@ -184,7 +184,7 @@
 
        
           <li class="nav-item">
-            <a  class="nav-link"  href="{{ url('/admin/products/') }}">
+            <a  class="nav-link"  href="{{ url('/admin/orders/') }}">
               <i class="fas fa-cart-plus text-light"></i>
                <p>Orders
                
